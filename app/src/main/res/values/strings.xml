@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DescargarImagen</string>
+     <string name="guardar">Guardar</string>
+    <string name="action_settings">Settings</string>
+    <string name="externaPrivada">Memoria Externa Privada</string>
+    <string name="externaPublica">Memoria Externa Pública</string>
+    <string name="guardarEn">Guardar en: </string>
+    <string name="url">Escribe la URL de la imagen</string>
+    <string name="nombre">Escribe el nombre para guardar la imagen</string>
+    <string name="errorGuardar">Error al guardar la imagen o formato no soportado</string>
+    <string name="errorUrl">URL incorrecta</string>
+    <string name="urlVacia">Campo URL vacío</string>
+    <string name="descargando">Descargando Imagen</string>
+    <string name="protocolo">http://</string>
+    <string name="jpg">jpg</string>
+    <string name="jpeg">jpeg</string>
+    <string name="png">png</string>
+    <string name="gif">gif</string>
+</resources>
